@@ -1,0 +1,219 @@
+,Year,Origin,Name,Target,Status,Description
+0,1970,Japan,Ohsumi,Earth,Success,First Japanese satellite
+1,1970,West Germany,DIAL,Earth,Success,Second German satellite. Launch by a French Diamant B from Kourou
+2,1970,Soviet Union,Venera 7,Venus,Success,First successful landing of a spacecraft on another planet
+3,1970,Soviet Union,Luna 16,Moon,Success,Lander is the first automated return of samples from the Moon
+4,1970,Soviet Union,Zond 8,Moon,Success,Flyby
+5,1970,Soviet Union,Luna 17/Lunokhod 1,Moon,Success,Lander/rover is the first automated surface exploration of the Moon
+6,1970,France,PEOLE,Earth,Success,First French communication satellite.
+7,1970,UK,Orba (satellite),Earth,Failure,Second stage of rocket shutdown 13 seconds early
+8,1970,USA,Uhuru,Earth,Success,First dedicated X-ray astronomy satellite
+9,1970,China,Dong Fang Hong I,Earth,Success,First Chinese satellite
+10,1971,Soviet Union,Luna 18,Moon,Failure,Lander
+11,1971,Soviet Union,Luna 19,Moon,Success,Orbiter
+12,1971,USA,Mariner 8,Mars,Failure,Orbiter. Lost due to launch failure.
+13,1971,France,Tournesol,Earth,Success,First French satellite with active attitude control. Hydrogen measurement.
+14,1971,France,Polaire,Earth,Failure,Second stage explosion
+15,1971,Soviet Union,Cosmos 419,Mars,Failure,Probe
+16,1971,Soviet Union,Mars 2,Mars,Failure,"Orbiter and lander, created the first human artifact on Mars"
+17,1971,Soviet Union,Mars 3,Mars,Success,"Orbiter and lander, first successful landing on Mars"
+18,1971,USA,Mariner 9,Mars,Success,"Orbiter, first pictures of Mars' moons (Phobos and Deimos) taken"
+19,1971,Canada,ISIS 2,Earth,Success,
+20,1971,Japan,Shinsei,Earth,Partial success,First Japanese science satellite
+21,1971,UK,Prospero X-3,Earth,Success,"Satellite, first satellite launched by Britain using a British rocket"
+22,1971,UK,Ariel 4,Earth,Success,
+23,1972,Soviet Union,Venera 8,Venus,Success,Lander
+24,1972,Soviet Union,Luna 20,Moon,Success,Lander
+25,1972,USA/ UK,Copernicus – Orbiting Astronomical Observatory-3,Earth,Success,
+26,1972,USA,Pioneer 10,Jupiter,Success,First spacecraft to encounter Jupiter
+27,1972,USA,Explorer 49,Sun,Success,Solar probe
+28,1973,USA,Mariner 10,Venus/Mercury,Success,"It passed by and photographed Mercury, also was the first dual planet probe"
+29,1973,USA,Pioneer 11,Jupiter/Saturn,Success,First spacecraft to encounter Saturn
+30,1973,France,Castor Pollux,Earth,Failure,"Reached orbit but the fairing failed to deploy, failing the launch"
+31,1973,Soviet Union,Luna 21/Lunokhod 2,Moon,Success,Lander/rover
+32,1973,Soviet Union,Mars 4,Mars,Failure,Orbiter
+33,1973,Soviet Union,Mars 5,Mars,Success,Orbiter
+34,1973,Soviet Union,Mars 6,Mars,Failure,Orbiter and lander
+35,1973,Soviet Union,Mars 7,Mars,Failure,Orbiter and lander
+36,1974,West Germany,Helios 1,Sun,Success,Solar probe
+37,1974,Soviet Union,Luna 22,Moon,Success,Orbiter
+38,1974,Soviet Union,Luna 23,Moon,Failure,Probe
+39,1974,UK,Ariel 5,Earth,Success,X-ray satellite
+40,1975,Soviet Union,Venera 9,Venus,Success,Returns the first pictures of the surface of Venus
+41,1975,Soviet Union,Venera 10,Venus,Success,Orbiter and lander
+42,1975,France,Starlette,Earth,Success,Laser reflector for earth based measurement
+43,1975,France,Castor Pollux,Earth,Success,"Castor tested a new accelerometer, Pollux tested hydrazine based thrusters"
+44,1975,France,Aura,Earth,Success,Far-ultraviolet measurement of the sun. Last launch of the Diamant rocket.
+45,1975,USA,Viking 1,Mars,Success,Orbiter and lander; lands on Mars 1976
+46,1975,USA,Viking 2,Mars,Success,Orbiter and lander; lands on Mars 1976
+47,1975,India,Aryabhata,Earth,Success,"Launched by USSR, the first Indian satellite"
+48,1976,West Germany,Helios 2,Sun,Success,Solar probe
+49,1976,Soviet Union,Luna 24,Moon,Success,Lander
+50,1976,Canada/ USA/ Europe,Communications Technology Satellite,Earth,Success,Prototype for testing direct broadcast satellite television on the Ku band
+51,1976,Netherlands/ USA,Astronomische Nederlandse Satelliet (ANS),Earth,Success,"Discovered X-ray bursts, first Dutch satellite (with US contributions)[20]"
+52,1976,USA,Orbiting Solar Observatory,Sun,Success,X-ray satellite shows that X-ray bursts have blackbody spectra
+53,1977,USA,HEAO-1,Earth,Success,X-ray satellite
+54,1977,Soviet Union,Kosmos 954,Earth,Success,Reconnaissance satellites
+55,1978,USA,Pioneer Venus 1,Venus,Success,Orbiter
+56,1978,USA,Pioneer Venus 2,Venus,Success,Atmospheric probe
+57,1978,Soviet Union,Venera 11,Venus,Success,Flyby and lander
+58,1978,Soviet Union,Venera 12,Venus,Success,Flyby and lander
+59,1978,USA/ UK/ Europe,International Ultraviolet Explorer,Earth,Success,
+60,1978,USA,HEAO-2,Earth,Success,First X-ray photographs of astronomical objects
+61,1978,Czechoslovakia,Magion 1,Earth,Success,First satellite for Czechoslovakia
+62,1979,India,Satellite Launch Vehicle,,Failure,India's first rocket launched
+63,1979,Japan,Hakucho,Earth,Success,X-ray satellite
+64,1979,UK,Ariel 6,Earth,Success,Cosmic-ray and X-ray satellite
+65,1979,USA,Voyager 1 Voyager 2,Jupiter,Success,Sent back images of Jupiter and its system
+66,1979,India,Bhaskara-1,Earth,Success,Launched by ISRO (First Indian low orbit Earth Observation Satellite)
+67,1980,USA,Solar Maximum Mission,Sun,Failure,Solar Maximum Mission solar probe succeeded after being repaired in Earth orbit
+68,1981,India,Bhaskara-2,Earth,Success,Bhaskara-2 satellite; launched on Russian Kosmos-3M rocket for ISRO
+69,1981,Soviet Union,Venera 13,Venus,Success,"Venera 13 launched, it returned the first colour pictures of the surface of Venus"
+70,1981,Soviet Union,Venera 14,Venus,Success,Venera 14 flyby and lander
+71,1981,Bulgaria,Bulgaria 1300,Earth,Success,"Bulgaria 1300, polar research mission, was Bulgaria's first artificial satellite; launched by the Soviet Union"
+72,1983,Soviet Union,Venera 15,Venus,Success,Venera 15 orbiter
+73,1983,Soviet Union,Venera 16,Venus,Success,Venera 16 orbiter
+74,1983,Europe,EXOSAT,Earth,Success,Launch of the EXOSAT X-ray satellite
+75,1983,Japan,Tenma,Earth,Success,Launch of the Tenma X-ray satellite (ASTRO-B)
+76,1983,USA / Netherlands / UK,IRAS,Earth,Success,Launch of the IRAS satellite
+77,1984,Soviet Union,Vega 1,Venus/Halley's Comet,Success,"Vega 1 flyby, atmospheric probe and lander"
+78,1984,Soviet Union,Vega 2,Venus/Halley's Comet,Success,"Vega 2 flyby, atmospheric probe and lander"
+79,1985,Mexico,Morelos I,Earth,Success,"Morelos I, the first Mexican satellite"
+80,1986,Europe,Giotto,Halley's Comet,Success,Giotto flyby
+81,1986,USA,Voyager 2,Uranus,Success,Voyager 2 sent back images of Uranus and its system
+82,1987,Japan,Ginga,Earth,Success,Launch of the Ginga X-ray satellite (ASTRO-C)
+83,1988,Soviet Union,Phobos 1,Mars,Failure,Phobos 1 orbiter and lander
+84,1988,Soviet Union,Phobos 2,Mars,Failure,Phobos 2 flyby and lander
+85,1988,Israel,Ofeq 1,Earth,Success,"Ofeq 1 first Israeli satellite, first satellite to be launched in retrograde orbit"
+86,1989,USA,Magellan,Venus,Success,Magellan orbiter launched which mapped 99 percent of the surface of Venus (300 m resolution)
+87,1989,USA / West Germany,Galileo,Venus/Earth/Moon/Gaspra/Ida/Jupiter,Success,"Galileo flyby, orbiter and atmospheric probe"
+88,1989,USA,Voyager 2,Neptune,Success,Voyager 2 sent back images of Neptune and its system
+89,1989,Europe,Hipparcos,Earth,Success,Launch of the Hipparcos satellite
+90,1989,USA,COBE,Earth,Success,Launch of the COBE satellite
+91,1989,Soviet Union,Granat,Earth,Success,Launch of the Granat gamma-ray and X-ray satellite
+92,1990,USA/ Europe,Ulysses,Sun,Success,Ulysses solar flyby
+93,1990,Japan,Hiten,Moon,Success,"Hiten probe, this was the first non-United States or USSR probe to reach the Moon"
+94,1990,USA/ Europe,Hubble Space Telescope,Earth,Success,Launch of the Hubble Space Telescope
+95,1990,Germany,ROSAT,Earth,Success,Launch of the ROSAT X-ray satellite to conduct the first imaging X-ray sky survey
+96,1991,Japan,Yohkoh,Sun,Success,Yohkoh solar probe
+97,1991,USA,Compton Gamma-Ray Observatory,Earth,Success,Launch of the Compton Gamma-Ray Observatory satellite
+98,1992,USA,Mars Observer,Mars,Failure,Mars Observer orbiter
+99,1993,Japan,ASCA,Earth,Success,Launch of the ASCA (ASTRO-D) X-ray satellite
+100,1994,USA,Clementine,Moon,Success,Clementine orbiter mapped the surface of the Moon (resolution 125–150 m) and allowed the first accurate relief map of the Moon to be generated
+101,1994,Turkey,Türksat 1B,Earth,Success,"Türksat 1B, First Turkish communications satellite"
+102,1995,Mexico,Unamsat 1,Earth,Failure,"Unamsat 1, First UNAM built orbiter"
+103,1995,Europe,ISO,Earth,Success,Launch of the Infrared Space Observatory
+104,1995,Europe/ USA,SOHO,Sun,Success,SOHO solar probe
+105,1996,USA,NEAR Shoemaker,433 Eros,Success,NEAR Shoemaker asteroid flybys/orbiter/lander
+106,1996,Turkey,Türksat 1C,Earth,Success,"Türksat 1C, Second Turkish communications satellite"
+107,1996,USA,Mars Global Surveyor,Mars,Success,Mars Global Surveyor orbiter
+108,1996,USA,Mars Pathfinder,Mars,Success,"Mars Pathfinder, the first automated surface exploration of another planet"
+109,1996,Russia,Mars 96,Mars,Failure,Mars 96 orbiter and lander
+110,1996,Argentina,SAC-B,Earth,Failure,Sac-B Orbiter
+111,1997,USA/ Europe,Cassini-Huygens,Saturn and Titan,Success,"Cassini-Huygens arrived in orbit on July 1, 2004, landed on Titan January 14, 2005"
+112,1997,Argentina,Nahuel 1A,Earth,Success,Nahuel 1A First Argentine satellite - geostationary communications satellites
+113,1998,North Korea,Kwangmyongsong-1,Earth,Un­known,Claimed launch of Kwangmyongsong-1 by North Korea though no independent source was able to verify its existence
+114,1998,USA,Lunar Prospector,Moon,Success,Lunar Prospector orbiter
+115,1998,Japan,Nozomi,Mars,Failure,"Nozomi (Planet B) orbiter, the first Japanese spacecraft to reach another planet"
+116,1998,USA,Mars Climate Orbiter,Mars,Failure,Mars Climate Orbiter
+117,1998,Argentina / USA,SAC-A,Earth,Success,Sac-A Orbiter
+118,1999,USA,Mars Polar Lander,Mars,Failure,Mars Polar Lander
+119,1999,USA,Deep Space 2,Mars,Failure,Deep Space 2 (DS2) penetrators
+120,1999,USA,Chandra,Earth,Success,Launch of the Chandra X-ray Observatory
+121,1999,Europe,XMM-Newton,Earth,Success,"Launch of the X-Ray Multi-Mirror Mission, XMM-Newton"
+122,2000,UK,SNAP-1,Earth,Success,SNAP-1 robotic camera enabling images to be sent to other spacecraft orbiting the Earth
+123,2000,Argentina,SAC-C,Earth,Success,SAC-C Orbiter
+124,2001,Turkey,Türksat 2A,Earth,Success,"Türksat 2A, third Turkish communications satellite"
+125,2001,USA,Genesis,Sun,Partial success,Genesis solar wind sample crash-landed on return
+126,2001,USA,WMAP,Earth,Success,Wilkinson Microwave Anisotropy Probe (WMAP) performs cosmological observations.
+127,2001,USA,Mars Odyssey,Mars,Success,Mars Odyssey
+128,2001,Europe,PROBA-1,Earth,Success,PROBA-1 Small satellite to observe the Earth (first Belgian Satellite)
+129,2003,Canada,MOST,Earth,Success,MOST the smallest space telescope in orbit.
+130,2003,Turkey,BİLSAT,Earth,Success,"BİLSAT , Turkey's first earth observation satellite"
+131,2002,USA,CONTOUR,Comet Encke,Failure,"CONTOUR launched, but lost during early trajectory insertion."
+132,2002,Europe/ Russia/ USA,INTEGRAL,Earth,Success,Launch of the INTEGRAL gamma-ray satellite.
+133,2003,Europe,Smart 1,Moon,Success,Smart 1 orbiter
+134,2003,Europe,Mars Express & Beagle 2,Mars,Partial success,Mars Express orbiter (successfully reached orbit) and failed Beagle 2 lander
+135,2003,USA,Mars Exploration Rover,Mars,Success,"Mars Exploration Rovers successful launches, Spirit successfully landed, Opportunity successfully landed"
+136,2003,UK,UK-DMC,Earth,Success,"UK-DMC orbiter, part of the Disaster Monitoring Constellation"
+137,2003,Japan,Hayabusa,25143 Itokawa,Success,"Hayabusa, first sample return from asteroid, returned in 2010"
+138,2004,Europe,Rosetta,Comet 67P,Success,"Rosetta space probe launched (arrived on comet 67P on November 12, 2014)"
+139,2004,USA,MESSENGER,Mercury,Success,MESSENGER orbiter launched (in Mercury orbit)
+140,2004,USA,Swift,Earth,Success,Launch of the Swift Gamma ray burst observatory.
+141,2005,USA,Deep Impact,Comet Tempel 1,Success,Deep Impact
+142,2005,Japan,Suzaku,Earth,Partial success,Launch of the Suzaku X-ray observatory (ASTRO-EII)
+143,2005,USA,MRO,Mars,Success,Mars Reconnaissance Orbiter
+144,2005,Iran,Sinah-1,Earth,Success,"Sinah-1 launched, first Iranian-built satellite"
+145,2005,Europe,Venus Express,Venus,Success,Venus Express
+146,2006,USA,New Horizons,Pluto,Success,"New Horizons launched. On July 14, 2015, New Horizons flew within 7,750 miles (12,472 km) of Pluto."
+147,2006,Japan,Akari,Earth,Success,Launch of the Akari infrared observatory (ASTRO-F)
+148,2006,France/ Europe,COROT,Earth,Success,COROT telescope to search for extrasolar planets
+149,2007,USA,Phoenix,Mars,Success,Phoenix launched and successfully landed in 2008
+150,2007,Japan,SELENE,Moon,Success,SELENE orbiter and lander
+151,2007,USA,Dawn,Vesta/Ceres,Success,Dawn solar powered ion engined probe to 4 Vesta and 1 Ceres.
+152,2007,China,Chang'e-I,Moon,Success,Chang'e-I lunar orbiter
+153,2007,Nigeria,NigComSat-1,Earth,Partial success,"NigComSat-1 launched by China, failed after 1 year"
+154,2008,Turkey,Türksat 3A,Earth,Success,"Türksat 3A, fourth Turkish communications satellite"
+155,2008,USA,IBEX,Earth,Success,The Interstellar Boundary Explorer (IBEX)'s mission is to study the nature of interactions between solar wind and interstellar medium at the edge of solar system.
+156,2009,Europe,Planck,L2,Success,Planck
+157,2009,Europe,Herschel,L2,Success,Herschel Space Observatory
+158,2009,Iran,Omid,Earth,Success,Omid launched by Iranian made launcher Safir. First Iranian-launched satellite
+159,2009,USA,Kepler,Earth,Success,Kepler launched
+160,2009,Europe,PROBA-2,Earth,Success,PROBA-2 Small satellite to observe the sun
+161,2009,India,RISAT-2,Earth,Success,"RISAT-2 developed by Israel Aerospace Industries, launched by ISRO, India"
+162,2009,India,Chandrayaan-1,Moon,Success,"Chandrayaan-1 developed and launched by ISRO, India"
+163,2009,UK,UK-DMC 2,Earth,Success,"UK-DMC 2 orbiter, successor to UK-DMC part of the Disaster Monitoring Constellation"
+164,2010,Japan,Akatsuki,Venus,Partial success,"Akatsuki orbiter, first Japanese spacecraft to orbit another planet (2015)"
+165,2010,Japan,IKAROS,Venus,Success,"IKAROS, first solar-sail spacecraft"
+166,2010,China,Chang'e-2,Moon,Success,Chang'e-2 lunar orbiter/impacter
+167,2011,Turkey,RASAT,Earth,Success,"Turkey's after BİLSAT, second earth observation satellite. RASAT, design and production made in Turkey is the first observation satellite."
+168,2011,Russia,Spektr-R,Earth,Success,Launch of the Spektr-R radio telescope
+169,2011,USA,Juno,Jupiter,Success,Juno
+170,2011,Russia,Fobos-Grunt,Mars,Failure,Fobos-Grunt lander and sample return
+171,2011,Nigeria,NigComSat-1,Earth,Success,NigComSat-1 replacement launched by China
+172,2011,Taiwan / Singapore,ST-2,Earth,Success,ST-2 replacement launched by Taiwan and Singapore
+173,2011,Argentina / USA,SAC-D,Earth,Success,SAC-D Orbiter
+174,2012,Iran,Navid,Earth,Success,Navid earth-watching satellite
+175,2012,USA,MSL,Mars,Success,Mars Science Laboratory with Curiosity rover—orbit and landed
+176,2012,North Korea,Kwangmyŏngsŏng-3,Earth,Success,"Kwangmyŏngsŏng-3 Unit 2, first successful North Korean orbital rocket launch"
+177,2012,Poland,PW-Sat,Earth,Success,"PW-Sat, first Polish satellite"
+178,2013,South Korea,STSAT-2C,Earth,Success,"STSAT-2C, first successful South Korean orbital rocket launch"
+179,2013,Canada,NEOSSat,Earth,Success,"NEOSSat, monitoring near-Earth objects"
+180,2013,Canada,Sapphire,Earth,Success,"Sapphire, military space surveillance"
+181,2013,Ecuador,NEE 01 Pegaso,Earth,Success,"NEE-01 Pegaso, Ecuador's first satellite"
+182,2013,Estonia,ESTCube-1,Earth,Success,"ESTCube-1, Estonia's first satellite"
+183,2013,Europe,PROBA-V,Earth,Success,"PROBA-V, small satellite to monitor the vegetation of the Earth"
+184,2013,UK,STRaND-1,Earth,Success,"STRaND-1, first smartphone-operated satellite to be launched and dubbed the world's first ""phonesat"""
+185,2013,Japan,Hisaki,Earth,Success,Hisaki planetary atmosphere observatory
+186,2013,Canada,CASSIOPE,Earth,Success,"CASSIOPE, ionosphere research and communication satellite"
+187,2013,India,MOM,Mars,Success,MOM is India's first interplanetary mission
+188,2013,USA,MAVEN,Mars,Success,MAVEN orbiter
+189,2013,Poland,Lem,Earth,Success,"Lem, First Polish scientific satellite"
+190,2014,Lithuania,LitSat1/LituanicaSAT-1,Earth,Success,"LitSat-1 and LituanicaSAT-1, first Lithuanian satellites"
+191,2014,Turkey,TÜRKSAT 4A,Earth,Success,"TÜRKSAT 4A, Turkey's fifth communication satellite."
+192,2014,Europe,Rosetta / Philae,Comet 67P,Partial success,"Rosetta and Philae, Third comet landing at unintended site in suboptimal orientation due to failure of surface anchoring system"
+193,2014,Poland,Heweliusz,Earth,Success,"Heweliusz, Second Polish scientific satellite"
+194,2014,Japan,Hayabusa2,162173 Ryugu,Success,"Hayabusa2, second Japanese asteroid sample return spacecraft"
+195,2014,Japan,PROCYON,2000 DP107,Partial failure,PROCYON deep space probe
+196,2015,United States,DSCOVR,Earth-Sun L1,Success,"DSCOVR, Earth and space weather"
+197,2015,India,Astrosat,Earth,Success,"Astrosat, Space observatory"
+198,2015,Turkey,TÜRKSAT 4B,Earth,Success,"TÜRKSAT 4B , Turkey's sixth communication satellite."
+199,2016,European Union / Russia,ExoMars / Schiaparelli,Mars,Partial success,"ExoMars Trace Gas Orbiter, Trace Gas Orbiter in orbit; Schiaparelli lander crashed"
+200,2016,Canada,M3MSat,Earth,Success,"M3MSat, maritime monitoring and communication satellite"
+201,2016,United States,OSIRIS-REx,Earth,en route,"OSIRIS-REx, first American asteroid sample return spacecraft"
+202,2017,Brazil,SGDC-1,Earth,Success,"SGDC-1, communication satellite"
+203,2018,United States,Tesla Roadster,Heliocentric orbit,Success,"Elon Musk's Tesla Roadster, dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun"
+204,2018,United States France Germany,InSight,Mars,Success,"InSight, Mars lander for planetary information"
+205,2018,European Union/ Japan,BepiColombo,Mercury,en route,"BepiColombo, two orbiters to study the magnetic field, magnetosphere, and both interior and surface structure of Mercury. Final mission of the Horizon 2000+ programme"
+206,2018,United States,Parker Solar Probe,Sun,en route,"Parker Solar Probe, first spacecraft to visit the outer corona of the Sun"
+207,2018,China,Chang'e 4,Moon,Success,"Chang'e 4, first spacecraft to soft-land on the lunar far side."
+208,2019,Egypt,NARSSCube-2,Earth,Success,"NARSSCube-2, Egypt's first domestically built satellite"
+209,2019,Israel,Beresheet,Moon,Failure,"Beresheet, first private space probe and moon lander, crashed"
+210,2019,Russia / Germany,Spektr-RG,Earth-Sun L2,Success,Launch of the Spektr-RG X-ray observatory
+211,2019,India,Chandrayaan-2,Moon,Partial success,"Chandrayaan-2, orbiter achieved orbit, but lander crash-landed"
+212,2019,Ethiopia,ETRSS-1,Earth,Success,"ETRSS-1, first Ethiopian satellite; built by China"
+213,2020,Turkey,TÜRKSAT 5A,Earth,Success,"TÜRKSAT 5A, Turkey's seventh communication satellite launched with SpaceX's Falcon 9 rocket."
+214,2020,United States,Mars 2020,Mars,Success,"Perseverance, JPL's new Mars rover. It was launched on July 30 with Atlas V rocket, and landed on February 18, 2021 with together small Ingenuity helicopter that was deployed on April 4, 2021."
+215,2020,UAE,Hope,Mars,Success,"Hope satellite is the United Arab Emirates Space Agency's unmanned space research project on Mars. It was launched with Japanese H-IIA rocket on 19 July and reached Mars on 9 February, 2021."
+216,2020,China,Tianwen-1,Mars,Success,"Mission containing a orbiter, deployable camera, lander and Zhurong rover. This is China's 2nd unmanned space research project on Mars. It was launched with Long March 5 rocket on 23 July and the orbiter, lander and rover entered Mars orbit on 10 February, 2021. The rover and lander landed on 14 May with rover deployment on 22 April 2021 and dropped a remote selfie camera on Mars on 1 June, 2021 and while deployable camera made a flyby around 10 February, 2021."
+217,2020,China,Chang'e 5,Moon,Success,"Orbiter, Returner, Ascent Stage, Lander configuration mission, China's first automated return of samples from the Moon"

@@ -2,5 +2,7 @@ phase1/scraper.ipynb
 phase1/smalll_table.xlsx
 phase1/tableau_data.xlsx
 phase1/top_operators.xlsx
-eac_spaceport_env/
+spaceport_env_windows/
+spaceport_env_linux/
+
 

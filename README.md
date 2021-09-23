@@ -1,25 +1,41 @@
-# Aerospace Launch Business Data Analysis
+# Global Rocket Launch Data Analysis
+
+![This is a alt text.](images/ASIG_Logo.PNG)
+
+[www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/)
+
+# Table of contents
+1. [Introduction](#Introduction)
+2. [Purpose](#Purpose)
+    1. [Approach](#Approach)
+3. [Phase 1](#Phase1)
 
 <!--
-Follow This Template
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
---> 
-## Purpose
-Provide an analytical framework that is part of the Data Science lifecycle that can prove to be give an advantage to the EAC Spaceport Feasibility Study research team.
+see how to make table of contents in markdown: https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 
-This project is an application of Data-Driven business intelligent tools and techniques to study global launch business using various available sources of data.
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+-->
+## Introduction to East Africa Spaceport Concept<a name="Introduction"></a>
 
-Apply methodologies in data science to prove the "low cost", "reliability" and other aspects of what would constitute an ideal launch site depending on the desired application for stakeholders.
+The East Africa Spaceport Feasibility Study Research Team of the Aerospace Special Interest Group (SIG) at National Society of Black Engineers (NSBE) is currently involved in a 9 year research project whose aim is to make various arguments supporting the case for an equatorial launch site in the East African Community. A spaceport, also called a launch site, is a complex with multiple facilities for launching spacecraft into trajectories around the Earth and beyond.  The concept of the East African Community (EAC) Spaceport nicknamed “Uhuru”, a Swahili word that means “freedom” was first suggested during the 2012 NSBE Aerospace Systems Conference in Los Angeles. The NSBE Space SIG partnered with Futron Corporation, Phezu Space LLC, and Isibizo Phezu Space (Pty) Ltd South Africa, and performed a preliminary study of this concept. The preliminary study highlighted the following: geo-physical advantages and possible sites for spaceport, science and technology advancement, economic benefits, space market competitiveness, South African spaceport collaboration, and public safety and asset protection. Several operational conveniences exist with building an equatorially located spaceport in East Africa. Rocket launch physics indicates that an equatorial launch to Geostationary Earth Orbit (GEO), Low Earth Orbit (LEO), or interplanetary trajectories uses less fuel than a launch from other latitudes for the same payload mass. The ability to either launch larger payloads or manifest more payloads for the same cost is an attractive option to space industry businesses. Alternatively, the ability to launch the same payload at a reduced cost versus launching from other latitudes is equally attractive.
 
-The objective of this project is to provide the EAC Spaceport Feasibility Study team insight into launch business based on past data and current trends and better able to predict the future of the industry using statistical insight, or whichever predictive model that proves to be the most accurate and reliable.
 
-Although much is written generally about analytics, it is important to make a clear distinction between BI and Data Science One way to evaluate the type of analysis being performed is to examine the time horizon and the kind of analytical approaches being used.  In sales and for a typical company, BI systems make it easy to answer questions related to quarter-to-date revenue, progress toward quarterly targets, and understand how much of a given product was sold in a prior quarter or year.  These questions tend to be closed-ended and explain current or past behavior, typically by aggregating historical data and grouping it in some way. 
+## Purpose<a name="Purpose"></a>
+
+The purpose of this global rocket launch business study is to provide members of the mentioned East African Spaceport research team an analytical framework based on the Data Science lifecycle proposed by the "Data Science and Big Data Analytics - Discovering, Analyzing, Visualizing and Presenting Data" book by EMC Education Services. This project aims at providing insight of gloabl rocket launches based on current and past trends in order for the mentioned team to be able to predict the future of the industry. Stakeholders of the hypothetical Spaceport in East Africa can also gain some industry insights to better understand and plan to use the near-equatorial location as a launch as a service platform.
+Statistical insights and Machine Learning models can be applied on available open source datasets containing historical rocket launches to prove the "low cost", "reliability" and other aspects of what would constitute an ideal launch site depending on the desired application and target orbits for customers.
+
+Much is written generally about analytics, it is important to make a clear distinction between BI and Data Science. One way to evaluate the type of analysis being performed is to examine the time horizon and the kind of analytical approaches being used.  
+
+In sales and for a typical company, BI systems make it easy to answer questions related to quarter-to-date revenue, progress toward quarterly targets, and understand how much of a given product was sold in a prior quarter or year.  These questions tend to be closed-ended and explain current or past behavior, typically by aggregating historical data and grouping it in some way. 
 
 This approach is not really fit for research!
 
 By comparison, Data Science tends to use disaggregated data in a more forward-looking, exploratory way, focusing on analyzing the present and enabling informed decisions about the future. Rather than aggregating historical data to look at how many of a given product sold in the previous quarter, a team may employ models such as time series analysis. Data Science tends to be more exploratory in nature and may use scenario optimization to deal with more open-ended questions such as what is the optimal scenario for our business? What will happen next? Why are these trends happening? What will happen next?
 
-## Approach
+### Approach <a name="Approach"></a>
 
 The 6 Phases of the Data Science Lifecycle:
 
@@ -35,18 +51,10 @@ The 6 Phases of the Data Science Lifecycle:
 
 **Phase 6 – Operationalize:** The team delivers final reports, briefings, code, and technical documents
 
-## Team Composition
-The key roles for our analytics project are the following:
-Users: EAC Spaceport Feasibility Study Team
-Project Sponsor: NSBE/ Aerospace SIG
-Project Manager: Gael Gatera
-BI Analyst: EAC Spaceport Feasibility Study Team
-Database Admin: Jibri Tolen
-Data Engineer: Jibri Tolen
-Data Scientist: Gael Gatera
+![This is a alt text.](images/DataLifecycle-6phases.PNG){ width=50% height=50% }
 
 
-## Phase 1 review:
+## Phase 1 <a name="Phase 1"></a>
 From Previous Study done by the EAC Spaceport Feasibility Study Team framed the problem statement & Identified Key Stakeholders 
 
 Our initial Hypothesis is that from a business standpoint launching from an as near to the equator as often as possible provides a cost reduction to identified stakeholders.
@@ -56,19 +64,17 @@ Lastly, we have gathered several open source data that should help give us the i
 Here is four of the open source data that we have found for our project: Spacex.csv file from a Kaggle profile, Space x rest API, Rocket Launch Sites Page from Wikipedia, Spreadsheet from Union for Concerned Scientists detailing the over 2,218 satellites which is a research group website
 
 
-## Phase 2 review:
-This phase typically starts with ETL which is an acronym for:
-Extract: read the data in our case from multiple sources 
-Transform: clean and structure the data into the desired form 
-Load: Is to write the data into a database for storage 
+<!--
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
-Successfully deployed a SQL Linux based Server deployed by AWS that will house the previously mentioned open source data and will be used to make queries.
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
 
-A brief look into the specifications of our server:
-Deployed an EC2 instance that hosts a SQL Server with the data normalized to make our BI reports a lot easier to produce.
-EC2 instance allow DBA to have full control of the database and allows us to choose what Operating System and other utilities to add for the most optimal performance.
-Typical RDS (Relational Database Systems) choses the previously mentioned for us which is a negative.
-We used a Linux Based instead of Microsoft in order to save up to 3x the space on our VDK (Virtual Hard Disk) for basic kernel needs
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
 
-We are currently in somewhat of a phase 2.5 as the data still needs to be cleaned up quite a bit. However, we jumped the gun a bit and started doing some a priori analysis just for the sake of it and started making some plots as the one shown in this slide. 
-This is a plot made from the UCS satellites database of the longitudinal location from where a satellite was launched from vs. the respective launch mass. Here we can see that there are quite a lot of satellites launched very near the equator however it is still not enough make clear conclusions.
+-->
+
+
+
