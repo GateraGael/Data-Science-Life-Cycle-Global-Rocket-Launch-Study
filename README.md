@@ -8,7 +8,7 @@
 1. [Introduction](#Introduction)
 2. [Purpose](#Purpose)
     1. [Approach](#Approach)
-3. [Phase 1](#Phase1)
+3. [Phase1](#Phase1)
 
 <!--
 see how to make table of contents in markdown: https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
@@ -51,10 +51,14 @@ The 6 Phases of the Data Science Lifecycle:
 
 **Phase 6 – Operationalize:** The team delivers final reports, briefings, code, and technical documents
 
-![This is a alt text.](images/DataLifecycle-6phases.PNG){ width=50% height=50% }
+<!---
+![This is a alt text.](images/DataLifecycle-6phases.png)
+-->
+
+<center><img src="images/DataLifecycle-6phases.png" height="600" width="600"/></center>
 
 
-## Phase 1 <a name="Phase 1"></a>
+## Phase1 <a name="Phase1"></a>
 From Previous Study done by the EAC Spaceport Feasibility Study Team framed the problem statement & Identified Key Stakeholders 
 
 Our initial Hypothesis is that from a business standpoint launching from an as near to the equator as often as possible provides a cost reduction to identified stakeholders.
