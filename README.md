@@ -55,7 +55,7 @@ The 6 Phases of the Data Science Lifecycle:
 ![This is a alt text.](images/DataLifecycle-6phases.png)
 -->
 
-<img src="images/DataLifecycle-6phases.png" height="600" width="600" class="center"/>
+<center><img src="images/DataLifecycle-6phases.png" height="600" width="600"/></center>
 
 
 ## Phase 1 <a name="Phase 1"></a>
