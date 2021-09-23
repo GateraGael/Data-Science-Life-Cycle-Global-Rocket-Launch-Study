@@ -51,7 +51,11 @@ The 6 Phases of the Data Science Lifecycle:
 
 **Phase 6 – Operationalize:** The team delivers final reports, briefings, code, and technical documents
 
+<!---
 ![This is a alt text.](images/DataLifecycle-6phases.png)
+-->
+
+<img src="images/DataLifecycle-6phases.png" width="200" />
 
 
 ## Phase 1 <a name="Phase 1"></a>
