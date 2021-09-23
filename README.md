@@ -2,7 +2,7 @@
 
 ![This is a alt text.](images/ASIG_Logo.PNG)
 
-[www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/)
+[www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/){ width=50% height=50% }
 
 # Table of contents
 1. [Introduction](#Introduction)
@@ -51,7 +51,7 @@ The 6 Phases of the Data Science Lifecycle:
 
 **Phase 6 – Operationalize:** The team delivers final reports, briefings, code, and technical documents
 
-![This is a alt text.](images/DataLifecycle-6phases.PNG){ width=50% height=50% }
+![This is a alt text.](images/DataLifecycle-6phases.png){ width=50% height=50% }
 
 
 ## Phase 1 <a name="Phase 1"></a>
