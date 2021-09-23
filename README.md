@@ -8,7 +8,7 @@
 1. [Introduction](#Introduction)
 2. [Purpose](#Purpose)
     1. [Approach](#Approach)
-3. [Phase 1](#Phase1)
+3. [Phase 1](#Phase 1)
 
 <!--
 see how to make table of contents in markdown: https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
