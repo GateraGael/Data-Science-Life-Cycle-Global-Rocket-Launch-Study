@@ -1,8 +1,8 @@
 # Global Rocket Launch Data Analysis
 
-![This is a alt text.](images/ASIG_Logo.PNG)
+![This is a alt text.](images/ASIG_Logo.PNG){ width=50% height=50% }
 
-[www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/){ width=50% height=50% }
+[www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/)
 
 # Table of contents
 1. [Introduction](#Introduction)
