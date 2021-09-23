@@ -1,6 +1,6 @@
 # Global Rocket Launch Data Analysis
 
-![This is a alt text.](images/ASIG_Logo.PNG){ width=50% height=50% }
+![This is a alt text.](images/ASIG_Logo.PNG)
 
 [www.nsbe-aerospace.org](https://www.nsbe-aerospace.org/)
 
@@ -51,7 +51,7 @@ The 6 Phases of the Data Science Lifecycle:
 
 **Phase 6 – Operationalize:** The team delivers final reports, briefings, code, and technical documents
 
-![This is a alt text.](images/DataLifecycle-6phases.png){ width=50% height=50% }
+![This is a alt text.](images/DataLifecycle-6phases.png)
 
 
 ## Phase 1 <a name="Phase 1"></a>
